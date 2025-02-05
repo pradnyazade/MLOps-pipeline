@@ -13,6 +13,9 @@ mlops-release-lifecycle
 ├── monitoring             # Model monitoring & rollback strategies
 │   ├── monitoring.py
 │   ├── rollback_strategy.py
+├── data_analysis           # data insights and visualizations
+│   ├── analytics.py
+│   ├── dashboard.ipynb
 ├── tests                  # Unit tests for data pipeline & model deployment
 │   ├── test_data_pipeline.py
 ├── docs                   # Documentation & reports
