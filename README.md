@@ -1,4 +1,11 @@
-# mlops-release-lifecycle Needs final editting
+# Status: Research Pause
+
+This project is intentionally paused while deeper research and design validation are in progress.
+The goal is to ensure correctness, scalability, and long-term maintainability before further execution.
+
+Work will resume once the research phase is complete.
+
+# mlops-release-lifecycle
 
 mlops-release-lifecycle
 ├── data_processing        # Data cleaning & feature engineering
